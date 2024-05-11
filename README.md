@@ -97,3 +97,8 @@ The RoBERTa model with additional POS tag features performed the best.
 - [VS Pranav](https://github.com/vspr14)
 
 
+
+## References
+
+1.	Rizk, Yara, and Mariette Awad. "Syntactic genetic algorithm for a subjectivity analysis of sports articles.
+2.	Barrón-Cedeño, Alberto, et al. "The CLEF-2024 CheckThat! Lab: Check-Worthiness, Subjectivity, Persuasion, Roles, Authorities, and Adversarial Robustness." European Conference on Information Retrieval. Cham: Springer Nature Switzerland, 2024.
