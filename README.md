@@ -102,3 +102,26 @@ The RoBERTa model with additional POS tag features performed the best.
 
 1.	Rizk, Yara, and Mariette Awad. "Syntactic genetic algorithm for a subjectivity analysis of sports articles.
 2.	Barrón-Cedeño, Alberto, et al. "The CLEF-2024 CheckThat! Lab: Check-Worthiness, Subjectivity, Persuasion, Roles, Authorities, and Adversarial Robustness." European Conference on Information Retrieval. Cham: Springer Nature Switzerland, 2024.
+
+## Citation
+
+If you find our work helpful, please consider including the following citation:
+
+
+```
+@inproceedings{DBLP:conf/clef/PremnathSSB24,
+  author       = {Pooja Premnath and
+                  Pranav Vaithiya Subramani and
+                  Nilu R. Salim and
+                  Bharathi B},
+  title        = {{SSN-NLP} at CheckThat! 2024: From Feature-based Algorithms to Transformers:
+                  {A} Study on Detecting Subjectivity},
+  booktitle    = {{CLEF} (Working Notes)},
+  series       = {{CEUR} Workshop Proceedings},
+  volume       = {3740},
+  pages        = {570--579},
+  publisher    = {CEUR-WS.org},
+  year         = {2024}
+}
+
+```
