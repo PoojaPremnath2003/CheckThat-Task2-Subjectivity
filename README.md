@@ -9,6 +9,11 @@ Systems for subjectivity detection in the context of political bias must aim to 
 
 Our team SSN-NLP ranked third out of 16 submission (including the baseline evaluation), with a macro-average F1 score of 0.71. 
 
+## Paper
+The paper describing the proposed method can be found here:
+
+[From Feature-based Algorithms to Transformers: A Study on Detecting Subjectivity](https://ceur-ws.org/Vol-3740/paper-52.pdf)
+
 
 
 ## Models
